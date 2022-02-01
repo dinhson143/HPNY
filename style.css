@@ -1,0 +1,105 @@
+.thao
+{
+    position: absolute;
+    width: 5%;
+    border-radius: 100px;
+    top: 50px;
+    left: 50px;
+    box-shadow: 0 0 15px #ccc;
+}
+.ha
+{
+    position: absolute;
+    width: 5%;
+    height: 12%;
+    border-radius: 100px;
+    top: 40px;
+    left: 200px;
+    box-shadow: 0 0 15px #ccc;
+}
+.quyet
+{
+    position: absolute;
+    width: 5%;
+    height: 12%;
+    border-radius: 100px;
+    top: 30px;
+    left: 350px;
+    box-shadow: 0 0 15px #ccc;
+}
+.tam
+{
+    position: absolute;
+    width: 5%;
+    height: 12%;
+    border-radius: 100px;
+    top: 30px;
+    left: 500px;
+    box-shadow: 0 0 15px #ccc;
+}
+.mai
+{
+    position: absolute;
+    width: 5%;
+    height: 12%;
+    border-radius: 100px;
+    top: 30px;
+    left: 650px;
+    box-shadow: 0 0 15px #ccc;
+}
+.sang
+{
+    position: absolute;
+    width: 5%;
+    height: 12%;
+    border-radius: 100px;
+    top: 30px;
+    left: 800px;
+    box-shadow: 0 0 15px #ccc;
+}
+.ngoc
+{
+    position: absolute;
+    width: 5%;
+    height: 12%;
+    border-radius: 100px;
+    top: 30px;
+    left: 800px;
+    box-shadow: 0 0 15px #ccc;
+}
+.son
+{
+    position: absolute;
+    width: 5%;
+    height: 12%;
+    border-radius: 100px;
+    top: 40px;
+    left: 950px;
+    box-shadow: 0 0 15px #ccc;
+}
+.ninh
+{
+    position: absolute;
+    width: 5%;
+    height: 12%;
+    border-radius: 100px;
+    top: 40px;
+    left: 1100px;
+    box-shadow: 0 0 15px #ccc;
+}
+.dai
+{
+    position: absolute;
+    width: 5%;
+    height: 12%;
+    border-radius: 100px;
+    top: 50px;
+    left: 1250px;
+    box-shadow: 0 0 15px #ccc;
+}
+.titleNM{
+    position: absolute;
+    color: #fff;
+    top:100px;
+    transform: translate(250%,150%);
+}
